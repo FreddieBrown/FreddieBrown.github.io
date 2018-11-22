@@ -25,7 +25,7 @@ github_username:  FreddieBrown
 
 # Build settings
 markdown: kramdown
-theme: minma
+theme: minima
 plugins:
   - jekyll-feed
 
