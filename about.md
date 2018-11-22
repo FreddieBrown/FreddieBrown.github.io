@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is my blog where I write about things in technology that interest me. I am very interested in lower level
+topics and Web Programming.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In terms of Web languages, I have experience in Python, PHP, JavaScript and Dart (Dart was used for app development
+but can be used on the web) and I have experience in C and Java outside of that. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+
